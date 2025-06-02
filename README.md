@@ -1,6 +1,4 @@
-## Hi there 👋
-
-👋 Hi there, I'm Woo Jin Shin!
+## Hi there I'm Woo Jin Shin!👋
 
 🔬 Research Interests
 
