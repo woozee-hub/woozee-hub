@@ -2,6 +2,5 @@
 
 🔬 Research Interests
 
-- AI Security 
-- Efficient Vision Module  
-- AI System Optimization
+- AI Security / AI Safety 
+- Lightweigth AI 
